@@ -1113,3 +1113,73 @@ http://gslbserv.itv.cmvideo.cn/6000000002000032052/1.m3u8?channel-id=wasusyt&Con
 http://gslbserv.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="" group-title="其它",四海钓鱼
 http://107.150.60.122/live/shdy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",CCTV-4K超高清
+http://192.187.124.34:81/live/cctv4ka.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",CCTV16-4K超高清
+http://192.187.124.34:81/live/cctv164k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",湖南卫视4K
+http://192.187.124.34:81/live/hnws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",深圳卫视4K
+http://192.187.124.34:81/live/szws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",江苏卫视4K
+http://192.187.124.34:81/live/jsws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",浙江卫视4K
+http://192.187.124.34:81/live/zjws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",四川卫视4K
+http://192.187.124.34:81/live/scws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东卫视4K
+http://192.187.124.34:81/live/sdws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",东方卫视4K
+http://192.187.124.34:81/live/dfws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",广东卫视4K
+http://192.187.124.34:81/live/gdws4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="求索",求索纪录
+http://192.187.124.34:81/live/qsjl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="求索",求索动物
+http://192.187.124.34:81/live/qsdw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="求索",求索ke学
+http://192.187.124.34:81/live/qskx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="求索",求索生活
+http://192.187.124.34:81/live/qssh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",精彩影视
+http://192.187.124.34:81/live/hsjcys.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",风尚音乐
+http://192.187.124.34:81/live/hsfsyy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",精品剧场
+http://192.187.124.34:81/live/hsjpjc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",欧美影院
+http://192.187.124.34:81/live/hsomyy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",少儿动漫
+http://192.187.124.34:81/live/hssedm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="探索",探索纪录
+http://192.187.124.34:81/live/hstsjl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",亚洲影院
+http://192.187.124.34:81/live/hsyzyy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="晴彩",睛彩广场舞
+http://192.187.124.34:81/live/jcgcw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="晴彩",睛彩竞技
+http://192.187.124.34:81/live/jcjj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="晴彩",睛彩青少
+http://192.187.124.34:81/live/jcqs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="晴彩",睛彩篮球
+http://192.187.124.34:81/live/jclq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电影
+http://192.187.124.34:81/live/hndya.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电视剧
+http://192.187.124.34:81/live/hndsja.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视
+http://192.187.124.34:81/live/hnjsa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南都市
+http://192.187.124.34:81/live/hndsa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南爱晚
+http://192.187.124.34:81/live/hngga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南娱乐
+http://192.187.124.34:81/live/hnyla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南教育
+http://192.187.124.34:81/live/hnjy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",金鹰纪实
+http://192.187.124.34:81/live/hnjyjsa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南国际
+http://192.187.124.34:81/live/hngj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南导视
+http://192.187.124.34:81/live/hnda.m3u8
