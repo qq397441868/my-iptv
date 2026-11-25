@@ -1,0 +1,13 @@
+{
+  "_comment": "上游公开直播源列表：按需增删。脚本会拉取这里的每个 m3u，合并去重后生成 live.m3u 与 international.m3u。",
+  "check": true,
+  "_check_comment": "check=true 时对线路做短超时连通探测，可用线路排在前面；false 则不测速、直接保留全部线路。",
+  "sources": [
+    { "name": "fanmingming", "url": "https://live.fanmingming.com/tv/m3u/itv.m3u" },
+    { "name": "peterhchina-cntv", "url": "https://peterhchina.github.io/iptv/CNTV-V4.m3u" },
+    { "name": "peterhchina-iptv", "url": "https://peterhchina.github.io/iptv/IPTV-V4.m3u" },
+    { "name": "vbsky", "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u" },
+    { "name": "yonsm", "url": "https://yonsm.github.io/IPTV/iptv.m3u8" },
+    { "name": "iptv-org-cn", "url": "https://iptv-org.github.io/iptv/countries/cn.m3u" }
+  ]
+}
